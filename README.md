@@ -52,8 +52,7 @@
 - <span style="color:#000;">Handled complaints through mathematics and programming concepts.</span>
 
 *<span style="color:#0077B6;">Software Trainee</span>* <br /> 
-    **<span style="color:#0077B6;">360 Degree Cloud Technologies Pvt. Ltd.</span>** &emsp; &emsp; &emsp; &emsp;  
-    *<span style="color:#000;">January 2020 - July 2020 (7 months)</span>*
+    **<span style="color:#0077B6;">360 Degree Cloud Technologies Pvt. Ltd.</span>** &emsp; &emsp; &emsp; &emsp;  *<span style="color:#000;">January 2020 - July 2020 (7 months)</span>*
 - <span style="color:#000;">Contributions to research, learning, and techniques that contributed to the development of an efficient model.</span>
 - <span style="color:#000;">Achieved a 40% workload reduction through effective management.</span>
 - <span style="color:#000;">Enhanced productivity by 20% through bug resolution and code optimization.</span>
@@ -88,7 +87,7 @@
 
 **<span style="color:#0077B6;">Skills:</span>**
 
- <br />**<span style="color:#000;">Programming Languages:</span>** Python3, Cython, C++, Bash, Java, JavaScript
+ **<span style="color:#000;">Programming Languages:</span>** Python3, Cython, C++, Bash, Java, JavaScript
  <br />**<span style="color:#000;">Frameworks:</span>** Fast API, Django, Elasticsearch
  <br />**<span style="color:#000;">DevOps:</span>** CLI, Curl, SSH, GITHUB, Maven, GitHub Actions, AWS, Docker, Kubernetes, App Engine
  <br />**<span style="color:#000;">Tools:</span>** Rest API, Git, VS Code, Postman, PyCharm, OpenCV, Redis
