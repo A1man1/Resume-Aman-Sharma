@@ -1,11 +1,11 @@
 **Aman Sharma**
 ```
-*Faridabad, Haryana, India*
-*Email:* aman.sharma04123@gmail.com
-*LinkedIn:* [linkedin.com/in/aman-s-142a1417b](https://www.linkedin.com/in/aman-s-142a1417b)
-*Phone:* (+91)-9911142747
-*GitHub:* [GitHub Profile Link](https://github.com/yourgithubusername)
-*HackerRank:* [HackerRank Profile Link](https://www.hackerrank.com/yourhackerrankusername)
+Faridabad, Haryana, India
+Email: aman.sharma04123@gmail.com
+LinkedIn: [linkedin.com/in/aman-s-142a1417b](https://www.linkedin.com/in/aman-s-142a1417b)
+Phone: (+91)-9911142747
+GitHub: [GitHub Profile Link](https://github.com/yourgithubusername)
+HackerRank: [HackerRank Profile Link](https://www.hackerrank.com/yourhackerrankusername)
 ```
 ---
 
