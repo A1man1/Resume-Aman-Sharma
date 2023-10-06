@@ -3,10 +3,10 @@
 <div style="box-shadow: 3px 3px 3px gray;">
 <span style="color:#000;">Faridabad, Haryana, India</span>
 <br /><span style="color:#000;">Email:</span>aman.sharma04123@gmail.com
-<br /><span style="color:#000;">LinkedIn:</span> [<span style="color:#0077B6;">linkedin.com/in/aman-s-142a1417b</span>](https://www.linkedin.com/in/aman-s-142a1417b)
-<br /><span style="color:#000;">Phone:</span> (<span style="color:#0077B6;">+91)-9911142747</span>
-<br /><span style="color:#000;">GitHub:</span> [<span style="color:#0077B6;">GitHub Profile Link</span>](https://github.com/yourgithubusername)
-<br /><span style="color:#000;">HackerRank:</span> [<span style="color:#0077B6;">HackerRank Profile Link</span>](https://www.hackerrank.com/yourhackerrankusername)
+<br /><span style="color:#000;">LinkedIn:</span> [linkedin.com/in/aman-s-142a1417b] (https://www.linkedin.com/in/aman-s-142a1417b)
+<br /><span style="color:#000;">Phone:</span> (+91)-9911142747</span>
+<br /><span style="color:#000;">GitHub:</span> [GitHub Profile Link](https://github.com/yourgithubusername)
+<br /><span style="color:#000;">HackerRank:</span> [HackerRank Profile Link](https://www.hackerrank.com/yourhackerrankusername)
 </div>
 
 ---
@@ -19,8 +19,7 @@
 **<span style="color:#0077B6;">Experience:</span>**
 
 *<span style="color:#0077B6;">Python Developer</span>* <br />
-    **<span style="color:#0077B6;">TechVenus Solutions</span>** &emsp; &emsp; &emsp; &emsp; 
-     *<span style="color:#000;">July 2023 - Present (4 months)</span>*
+    **<span style="color:#0077B6;">TechVenus Solutions</span>** &emsp; &emsp; &emsp; &emsp;  *<span style="color:#000;">July 2023 - Present (4 months)</span>*
 - <span style="color:#000;">Developed and maintained ETL pipelines for efficient data extraction, transformation, and loading.</span>
 - <span style="color:#000;">Optimized data pipelines for enhanced performance, identifying and resolving bottlenecks.</span>
 - <span style="color:#000;">Utilized AWS/GCP to architect scalable data infrastructure for structured and unstructured data.</span>
@@ -28,9 +27,8 @@
 - <span style="color:#000;">Optimized API performance through efficient coding practices and caching mechanisms.</span>
 - <span style="color:#000;">Managed the API codebase using Git for seamless collaboration and maintenance.</span>
 
-*<span style="color:#0077B6;">Junior Software Developer</span>*  <br /> 
-    **<span style="color:#0077B6;">Adcuratio Media Inc.</span>**  &emsp; &emsp; &emsp; &emsp;  
-    *<span style="color:#000;">August 2021 - Present (2 years 3 months)</span>*
+*<span style="color:#0077B6;">Junior Software Developer</span>* <br /> 
+    **<span style="color:#0077B6;">Adcuratio Media Inc.</span>**  &emsp; &emsp; &emsp; &emsp;  *<span style="color:#000;">August 2021 - Present (2 years 3 months)</span>*
 - <span style="color:#000;">Connected applications to certain third-party website programs and services.</span>
 - <span style="color:#000;">Conducted tests on various applications and debugged and enhanced computer systems and applications.</span>
 - <span style="color:#000;">Integrated user-facing features using server-side logic.</span>
@@ -41,25 +39,20 @@
 - <span style="color:#000;">Orchestrated the deployment of a scheduler for real-time data availability.</span>
 - <span style="color:#000;">Deployed the v3 API on an EC2 instance.</span>
 
-*<span style="color:#0077B6;">Project Intern</span>* <br />
-    **<span style="color:#0077B6;">Adcuratio Media Inc.</span>**  &emsp; &emsp; &emsp; &emsp;  
-    *<span style="color:#000;">June 2021 - August 2021 (3 months)</span>*
 
 *<span style="color:#0077B6;">Python Intern</span>* <br />
-    **<span style="color:#0077B6;">AppCode Technologies Pvt. Ltd.</span>**  &emsp; &emsp; &emsp; &emsp;  
-    *<span style="color:#000;">January 2021 - April 2021 (4 months)</span>*
+    **<span style="color:#0077B6;">AppCode Technologies Pvt. Ltd.</span>**  &emsp; &emsp; &emsp; &emsp; *<span style="color:#000;">January 2021 - April 2021 (4 months)</span>*
 - <span style="color:#000;">Reduced debugging time and optimized code for text object capture.</span>
 - <span style="color:#000;">Improved time complexity for frame editing using OpenCV tools.</span>
 - <span style="color:#000;">Deployed a Django project on Docker containers.</span>
 
-*<span style="color:#0077B6;">Freelance</span>*
-    **<span style="color:#0077B6;">Chegg Inc.</span>** <br /> 
-    *<span style="color:#000;">August 2020 - January 2021 (6 months)</span>*  &emsp; &emsp; &emsp; &emsp;  
+*<span style="color:#0077B6;">Freelance</span>* <br />
+    **<span style="color:#0077B6;">Chegg Inc.</span>** &emsp; &emsp; &emsp; &emsp;     *<span style="color:#000;">August 2020 - January 2021 (6 months)</span>*  
 - <span style="color:#000;">Contributed to problem classification and usability criteria.</span>
 - <span style="color:#000;">Handled complaints through mathematics and programming concepts.</span>
 
 *<span style="color:#0077B6;">Software Trainee</span>* <br /> 
-    **<span style="color:#0077B6;">360 Degree Cloud Technologies Pvt. Ltd.</span>**   &emsp; &emsp; &emsp; &emsp;  
+    **<span style="color:#0077B6;">360 Degree Cloud Technologies Pvt. Ltd.</span>** &emsp; &emsp; &emsp; &emsp;  
     *<span style="color:#000;">January 2020 - July 2020 (7 months)</span>*
 - <span style="color:#000;">Contributions to research, learning, and techniques that contributed to the development of an efficient model.</span>
 - <span style="color:#000;">Achieved a 40% workload reduction through effective management.</span>
@@ -70,16 +63,16 @@
 **<span style="color:#0077B6;">Education:</span>**
 
 *Bachelor's of Technology (Computer Science and Engineering)* &emsp;
-    **<span style="color:#0077B6;">Maharishi Dayanand University</span>** &emsp;
-    *<span style="color:#000;">GPA: 3.26</span>
-    *<span style="color:#000;">+A*</span>
+    <br /> **<span style="color:#0077B6;">Maharishi Dayanand University</span>** &emsp;
+    <br />*<span style="color:#000;">GPA: 3.26</span>
+    <br />*<span style="color:#000;">+A*</span>
 
 *<span style="color:#0077B6;">Graduation:</span>* &emsp;
-    **<span style="color:#0077B6;">Guru Nanak Senior Secondary School</span>** &emsp;
-    *<span style="color:#000;">August 2016 – August 2020</span>
+     <br />**<span style="color:#0077B6;">Guru Nanak Senior Secondary School</span>** &emsp;
+     <br />*<span style="color:#000;">August 2016 – August 2020</span>
 
 *<span style="color:#0077B6;">Senior Secondary:</span>* &emsp;
-    *<span style="color:#000;">May 2014 – May 2015</span>
+     <br />*<span style="color:#000;">May 2014 – May 2015</span>
 
 ---
 
@@ -95,9 +88,9 @@
 
 **<span style="color:#0077B6;">Skills:</span>**
 
-**<span style="color:#000;">Programming Languages:</span>** Python3, Cython, C++, Bash, Java, JavaScript
-**<span style="color:#000;">Frameworks:</span>** Fast API, Django, Elasticsearch
-**<span style="color:#000;">DevOps:</span>** CLI, Curl, SSH, GITHUB, Maven, GitHub Actions, AWS, Docker, Kubernetes, App Engine
-**<span style="color:#000;">Tools:</span>** Rest API, Git, VS Code, Postman, PyCharm, OpenCV, Redis
-**<span style="color:#000;">Databases:</span>** MongoDB, PostgreSQL
-**<span style="color:#000;">Skills:</span>** Object-Oriented Programming (OOP), REST APIs, MVT, Data Architecture, Server Configuration, Database Design, NoSQL, MySQL, Open-Source Software, Distributed Systems
+ <br />**<span style="color:#000;">Programming Languages:</span>** Python3, Cython, C++, Bash, Java, JavaScript
+ <br />**<span style="color:#000;">Frameworks:</span>** Fast API, Django, Elasticsearch
+ <br />**<span style="color:#000;">DevOps:</span>** CLI, Curl, SSH, GITHUB, Maven, GitHub Actions, AWS, Docker, Kubernetes, App Engine
+ <br />**<span style="color:#000;">Tools:</span>** Rest API, Git, VS Code, Postman, PyCharm, OpenCV, Redis
+ <br />**<span style="color:#000;">Databases:</span>** MongoDB, PostgreSQL
+ <br />**<span style="color:#000;">ETL:</span>** Data Architecture, Database Design, NoSQL, MySQL, Open-Source Software, Distributed Systems (Databricks)
