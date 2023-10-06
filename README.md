@@ -6,6 +6,8 @@
 <br /><span style="color:#000;">LinkedIn:</span> 
    [Linkedin Profile Link](https://www.linkedin.com/in/aman-s-142a1417b)
 <br /><span style="color:#000;">Phone:</span> (+91)-9911142747</span>
+<br /><span style="color:#000;">WhatsApp:</span> 
+   (What'sApp link)[https://wa.me/+919911142747]
 <br /><span style="color:#000;">GitHub:</span> 
    [GitHub Profile Link](https://github.com/yourgithubusername)
 <br /><span style="color:#000;">HackerRank:</span> 
