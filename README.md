@@ -16,7 +16,7 @@
 
 ---
 
-**<span style="color:#0077B6;">Summary:</span>**
+**<span style="color:#0077B6;">Summary:</span>** <br />
 <span style="color:#000;">Achieving high career growth through a continuous learning process, keeping myself dynamic and visionary to understand new possibilities of growth.</span>
 
 ---
