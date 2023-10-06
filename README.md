@@ -1,188 +1,100 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aman Sharma's Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-        }
+**<span style="color:#0077B6;">Aman Sharma</span>**
+*<span style="color:#000;">Faridabad, Haryana, India</span>*
+*<span style="color:#000;">Email:</span>* aman.sharma04123@gmail.com
+*<span style="color:#000;">LinkedIn:</span>* [<span style="color:#0077B6;">linkedin.com/in/aman-s-142a1417b</span>](https://www.linkedin.com/in/aman-s-142a1417b)
+*<span style="color:#000;">Phone:</span>* (<span style="color:#0077B6;">+91)-9911142747</span>
+*<span style="color:#000;">GitHub:</span>* [<span style="color:#0077B6;">GitHub Profile Link</span>](https://github.com/yourgithubusername)
+*<span style="color:#000;">HackerRank:</span>* [<span style="color:#0077B6;">HackerRank Profile Link</span>](https://www.hackerrank.com/yourhackerrankusername)
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+---
 
-        .header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+**<span style="color:#0077B6;">Summary:</span>**
+<span style="color:#000;">Achieving high career growth through a continuous learning process, keeping myself dynamic and visionary to understand new possibilities of growth.</span>
 
-        .header h1 {
-            font-size: 36px;
-            color: #0077B6;
-            margin: 10px 0;
-            animation: fadeIn 1s ease-in-out;
-        }
+---
 
-        .header p {
-            font-size: 18px;
-            color: #333;
-            animation: fadeIn 1s ease-in-out;
-        }
+**<span style="color:#0077B6;">Experience:</span>**
 
-        .section {
-            margin: 20px 0;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+*<span style="color:#0077B6;">Python Developer</span>*
+    **<span style="color:#0077B6;">TechVenus Solutions</span>**
+     *<span style="color:#000;">July 2023 - Present (4 months)</span>*
+- <span style="color:#000;">Developed and maintained ETL pipelines for efficient data extraction, transformation, and loading.</span>
+- <span style="color:#000;">Optimized data pipelines for enhanced performance, identifying and resolving bottlenecks.</span>
+- <span style="color:#000;">Utilized AWS/GCP to architect scalable data infrastructure for structured and unstructured data.</span>
+- <span style="color:#000;">Implemented API security measures for data integrity and user privacy.</span>
+- <span style="color:#000;">Optimized API performance through efficient coding practices and caching mechanisms.</span>
+- <span style="color:#000;">Managed the API codebase using Git for seamless collaboration and maintenance.</span>
 
-        .section h2 {
-            font-size: 24px;
-            color: #0077B6;
-            margin-bottom: 20px;
-        }
+*<span style="color:#0077B6;">Junior Software Developer</span>*
+    **<span style="color:#0077B6;">Adcuratio Media Inc.</span>**
+    *<span style="color:#000;">August 2021 - Present (2 years 3 months)</span>*
+- <span style="color:#000;">Connected applications to certain third-party website programs and services.</span>
+- <span style="color:#000;">Conducted tests on various applications and debugged and enhanced computer systems and applications.</span>
+- <span style="color:#000;">Integrated user-facing features using server-side logic.</span>
+- <span style="color:#000;">Analyzed data storage solutions and integrated them with different applications.</span>
+- <span style="color:#000;">Engineered a high-performance text-based search engine with AWS CloudSearch.</span>
+- <span style="color:#000;">Implemented advanced database indexing techniques for improved query response times.</span>
+- <span style="color:#000;">Led a database optimization initiative, reducing data load by 30x.</span>
+- <span style="color:#000;">Orchestrated the deployment of a scheduler for real-time data availability.</span>
+- <span style="color:#000;">Deployed the v3 API on an EC2 instance.</span>
 
-        .summary {
-            font-weight: bold;
-            font-size: 18px;
-            color: #0077B6;
-            margin-bottom: 10px;
-        }
+*<span style="color:#0077B6;">Project Intern</span>*
+    **<span style="color:#0077B6;">Adcuratio Media Inc.</span>**
+    *<span style="color:#000;">June 2021 - August 2021 (3 months)</span>*
 
-        .link {
-            color: #0077B6;
-            text-decoration: none;
-        }
+*<span style="color:#0077B6;">Python Intern</span>*
+    **<span style="color:#0077B6;">AppCode Technologies Pvt. Ltd.</span>**
+    *<span style="color:#000;">January 2021 - April 2021 (4 months)</span>*
+- <span style="color:#000;">Reduced debugging time and optimized code for text object capture.</span>
+- <span style="color:#000;">Improved time complexity for frame editing using OpenCV tools.</span>
+- <span style="color:#000;">Deployed a Django project on Docker containers.</span>
 
-        .link:hover {
-            text-decoration: underline;
-        }
+*<span style="color:#0077B6;">Freelance</span>*
+    **<span style="color:#0077B6;">Chegg Inc.</span>**
+    *<span style="color:#000;">August 2020 - January 2021 (6 months)</span>*
+- <span style="color:#000;">Contributed to problem classification and usability criteria.</span>
+- <span style="color:#000;">Handled complaints through mathematics and programming concepts.</span>
 
-        .experience-item {
-            margin-bottom: 20px;
-        }
+*<span style="color:#0077B6;">Software Trainee</span>*
+    **<span style="color:#0077B6;">360 Degree Cloud Technologies Pvt. Ltd.</span>**
+    *<span style="color:#000;">January 2020 - July 2020 (7 months)</span>*
+- <span style="color:#000;">Contributions to research, learning, and techniques that contributed to the development of an efficient model.</span>
+- <span style="color:#000;">Achieved a 40% workload reduction through effective management.</span>
+- <span style="color:#000;">Enhanced productivity by 20% through bug resolution and code optimization.</span>
 
-        .experience-item h3 {
-            font-size: 20px;
-            color: #333;
-            margin: 10px 0;
-        }
+---
 
-        .experience-item p {
-            font-size: 16px;
-            color: #555;
-            margin: 5px 0;
-        }
+**<span style="color:#0077B6;">Education:</span>**
 
-        .experience-item ul {
-            list-style: disc;
-            padding-left: 20px;
-        }
+*Bachelor's of Technology (Computer Science and Engineering)*
+    **<span style="color:#0077B6;">Maharishi Dayanand University</span>**
+    *<span style="color:#000;">GPA: 3.26</span>
+    *<span style="color:#000;">+A*</span>
 
-        .achievements {
-            margin-top: 20px;
-        }
+*<span style="color:#0077B6;">Graduation:</span>*
+    **<span style="color:#0077B6;">Guru Nanak Senior Secondary School</span>**
+    *<span style="color:#000;">August 2016 – August 2020</span>
 
-        .achievements h2 {
-            font-size: 24px;
-            color: #0077B6;
-            margin-bottom: 20px;
-        }
+*<span style="color:#0077B6;">Senior Secondary:</span>*
+    *<span style="color:#000;">May 2014 – May 2015</span>
 
-        .achievements ul {
-            list-style: disc;
-            padding-left: 20px;
-        }
+---
 
-        @keyframes fadeIn {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
+**<span style="color:#0077B6;">Achievements:</span>**
+- <span style="color:#000;">Deployed 6 projects successfully on AWS EC2, handling 1 million users.</span>
+- <span style="color:#000;">Developed remote integration with third-party platforms using Restful web services.</span>
+- <span style="color:#000;">Achieved 1866 rank in KickStart Round D Google Challenges for the created efficient algorithm.</span>
+- <span style="color:#000;">Earned a Certificate in Essential Cloud Infrastructure: Foundation by Google Cloud on Coursera.</span>
+- <span style="color:#000;">Earned a Certificate in Google Cloud Platform Fundamentals: Core Infrastructure by Google Cloud on Coursera.</span>
+- <span style="color:#000;">Selected for 2nd place by coding the Smart Dustbin system using Arduino with teammates at the ACEM college Hackathon contest.</span>
 
-        @media (max-width: 768px) {
-            .container {
-                padding: 10px;
-            }
+---
 
-            .header h1 {
-                font-size: 28px;
-            }
+**<span style="color:#0077B6;">Skills:</span>**
 
-            .header p {
-                font-size: 16px;
-            }
-
-            .section h2 {
-                font-size: 22px;
-            }
-
-            .summary {
-                font-size: 16px;
-            }
-
-            .experience-item h3 {
-                font-size: 18px;
-            }
-
-            .experience-item p {
-                font-size: 14px;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>Aman Sharma</h1>
-            <p>Faridabad, Haryana, India</p>
-            <p>Email: <a href="mailto:aman.sharma04123@gmail.com" class="link">aman.sharma04123@gmail.com</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/aman-s-142a1417b" class="link">linkedin.com/in/aman-s-142a1417b</a></p>
-            <p>Phone: (+91)-9911142747</p>
-        </div>
-        <div class="section">
-            <h2>Summary</h2>
-            <p class="summary">Achieving high career growth through a continuous learning process, keeping myself dynamic and visionary to understand new possibilities of growth.</p>
-        </div>
-        <div class="section">
-            <h2>Experience</h2>
-            <div class="experience-item">
-                <h3>Python Developer</h3>
-                <p><strong>TechVenus Solutions</strong></p>
-                <p>July 2023 - Present (4 months)</p>
-                <ul>
-                    <li>Developed and maintained ETL pipelines for efficient data extraction, transformation, and loading.</li>
-                    <li>Optimized data pipelines for enhanced performance, identifying and resolving bottlenecks.</li>
-                    <li>Utilized AWS/GCP to architect scalable data infrastructure for structured and unstructured data.</li>
-                    <li>Implemented API security measures for data integrity and user privacy.</li>
-                    <li>Optimized API performance through efficient coding practices and caching mechanisms.</li>
-                    <li>Managed the API codebase using Git for seamless collaboration and maintenance.</li>
-                </ul>
-            </div>
-            <!-- Add more experience items here -->
-        </div>
-        <div class="achievements">
-            <h2>Achievements</h2>
-            <ul>
-                <li>Deployed 6 projects successfully on AWS EC2, handling 1 million users.</li>
-                <li>Developed remote integration with third-party platforms using Restful web services.</li>
-                <li>Achieved 1866 rank in KickStart Round D Google Challenges for the created efficient algorithm.</li>
-                <li>Earned a Certificate in Essential Cloud Infrastructure: Foundation by Google Cloud on Coursera.</li>
-                <li>Earned a Certificate in Google Cloud Platform Fundamentals: Core Infrastructure by Google Cloud on Coursera.</li>
-                <li>Selected for 2nd place by coding the Smart Dustbin system using Arduino with teammates at the ACEM college Hackathon contest.</li>
-            </ul>
-        </div>
-        <!-- Add more sections (Education, Skills, etc.) here -->
-    </div>
-</body>
-</html>
+**<span style="color:#000;">Programming Languages:</span>** Python3, Cython, C++, Bash, Java, JavaScript
+**<span style="color:#000;">Frameworks:</span>** Fast API, Django, Elasticsearch
+**<span style="color:#000;">DevOps:</span>** CLI, Curl, SSH, GITHUB, Maven, GitHub Actions, AWS, Docker, Kubernetes, App Engine
+**<span style="color:#000;">Tools:</span>** Rest API, Git, VS Code, Postman, PyCharm, OpenCV, Redis
+**<span style="color:#000;">Databases:</span>** MongoDB, PostgreSQL
+**<span style="color:#000;">Skills:</span>** Object-Oriented Programming (OOP), REST APIs, MVT, Data Architecture, Server Configuration, Database Design, NoSQL, MySQL, Open-Source Software, Distributed Systems
