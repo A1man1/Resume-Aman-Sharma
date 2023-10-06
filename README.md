@@ -2,7 +2,7 @@
 
 
 <span style="color:#000;">Faridabad, Haryana, India</span>
-<br /><span style="color:#000;">Email:</span>aman.sharma04123@gmail.com
+<br /><span style="color:#000;">Email:</span> aman.sharma04123@gmail.com
 <br /><span style="color:#000;">LinkedIn:</span> 
    [Linkedin Profile Link](https://www.linkedin.com/in/aman-s-142a1417b)
 <br /><span style="color:#000;">Phone:</span> (+91)-9911142747</span>
