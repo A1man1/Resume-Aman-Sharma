@@ -1,101 +1,188 @@
-**Aman Sharma**
-```
-Faridabad, Haryana, India
-Email: aman.sharma04123@gmail.com
-LinkedIn: [linkedin.com/in/aman-s-142a1417b](https://www.linkedin.com/in/aman-s-142a1417b)
-Phone: (+91)-9911142747
-GitHub: [GitHub Profile Link](https://github.com/yourgithubusername)
-HackerRank: [HackerRank Profile Link](https://www.hackerrank.com/yourhackerrankusername)
-```
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aman Sharma's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
 
-**Summary:**
-Achieving high career growth through a continuous learning process, keeping myself dynamic and visionary to understand new possibilities of growth.
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
 
----
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
 
-**Experience:**
+        .header h1 {
+            font-size: 36px;
+            color: #0077B6;
+            margin: 10px 0;
+            animation: fadeIn 1s ease-in-out;
+        }
 
-*Python Developer*
-**TechVenus Solutions**
-*July 2023 - Present (4 months)*
-- Developed and maintained ETL pipelines for efficient data extraction, transformation, and loading.
-- Optimized data pipelines for enhanced performance, identifying and resolving bottlenecks.
-- Utilized AWS/GCP to architect scalable data infrastructure for structured and unstructured data.
-- Implemented API security measures for data integrity and user privacy.
-- Optimized API performance through efficient coding practices and caching mechanisms.
-- Managed the API codebase using Git for seamless collaboration and maintenance.
+        .header p {
+            font-size: 18px;
+            color: #333;
+            animation: fadeIn 1s ease-in-out;
+        }
 
-*Junior Software Developer*
-**Adcuratio Media Inc.**
-*August 2021 - Present (2 years 3 months)*
-- Connected applications to certain third-party website programs and services.
-- Conducted tests on various applications and debugged and enhanced computer systems and applications.
-- Integrated user-facing features using server-side logic.
-- Analyzed data storage solutions and integrated them with different applications.
-- Engineered a high-performance text-based search engine with AWS CloudSearch.
-- Implemented advanced database indexing techniques for improved query response times.
-- Led a database optimization initiative, reducing data load by 30x.
-- Orchestrated the deployment of a scheduler for real-time data availability.
-- Deployed the v3 API on an EC2 instance.
+        .section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-*Project Intern*
-**Adcuratio Media Inc.**
-*June 2021 - August 2021 (3 months)*
+        .section h2 {
+            font-size: 24px;
+            color: #0077B6;
+            margin-bottom: 20px;
+        }
 
-*Python Intern*
-**AppCode Technologies Pvt. Ltd.**
-*January 2021 - April 2021 (4 months)*
-- Reduced debugging time and optimized code for text object capture.
-- Improved time complexity for frame editing using OpenCV tools.
-- Deployed a Django project on Docker containers.
+        .summary {
+            font-weight: bold;
+            font-size: 18px;
+            color: #0077B6;
+            margin-bottom: 10px;
+        }
 
-*Freelance*
-**Chegg Inc.**
-*August 2020 - January 2021 (6 months)*
-- Contributed to problem classification and usability criteria.
-- Handled complaints through mathematics and programming concepts.
+        .link {
+            color: #0077B6;
+            text-decoration: none;
+        }
 
-*Software Trainee*
-**360 Degree Cloud Technologies Pvt. Ltd.**
-*January 2020 - July 2020 (7 months)*
-- Contributions to research, learning, and techniques that contributed to the development of an efficient model.
-- Achieved a 40% workload reduction through effective management.
-- Enhanced productivity by 20% through bug resolution and code optimization.
+        .link:hover {
+            text-decoration: underline;
+        }
 
----
+        .experience-item {
+            margin-bottom: 20px;
+        }
 
-**Education:**
+        .experience-item h3 {
+            font-size: 20px;
+            color: #333;
+            margin: 10px 0;
+        }
 
-*Bachelor's of Technology (Computer Science and Engineering)*
-**Maharishi Dayanand University**
-*GPA: 3.26*
-*+A*
+        .experience-item p {
+            font-size: 16px;
+            color: #555;
+            margin: 5px 0;
+        }
 
-*Graduation:*
-**Guru Nanak Senior Secondary School**
-*August 2016 – August 2020*
+        .experience-item ul {
+            list-style: disc;
+            padding-left: 20px;
+        }
 
-*Senior Secondary:*
-*May 2014 – May 2015*
+        .achievements {
+            margin-top: 20px;
+        }
 
----
+        .achievements h2 {
+            font-size: 24px;
+            color: #0077B6;
+            margin-bottom: 20px;
+        }
 
-**Achievements:**
-- Deployed 6 projects successfully on AWS EC2, handling 1 million users.
-- Developed remote integration with third-party platforms using Restful web services.
-- Achieved 1866 rank in KickStart Round D Google Challenges for the created efficient algorithm.
-- Earned a Certificate in Essential Cloud Infrastructure: Foundation by Google Cloud on Coursera.
-- Earned a Certificate in Google Cloud Platform Fundamentals: Core Infrastructure by Google Cloud on Coursera.
-- Selected for 2nd place by coding the Smart Dustbin system using Arduino with teammates at the ACEM college Hackathon contest.
+        .achievements ul {
+            list-style: disc;
+            padding-left: 20px;
+        }
 
----
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
 
-**Skills:**
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
 
-**Programming Languages:** Python3, Cython, C++, Bash, Java, JavaScript
-**Frameworks:** Fast API, Django, Elasticsearch
-**DevOps:** CLI, Curl, SSH, GITHUB, Maven, GitHub Actions, AWS, Docker, Kubernetes, App Engine
-**Tools:** Rest API, Git, VS Code, Postman, PyCharm, OpenCV, Redis
-**Databases:** MongoDB, PostgreSQL
-**Skills:** Object-Oriented Programming (OOP), REST APIs, MVT, Data Architecture, Server Configuration, Database Design, NoSQL, MySQL, Open-Source Software, Distributed Systems
+            .header h1 {
+                font-size: 28px;
+            }
+
+            .header p {
+                font-size: 16px;
+            }
+
+            .section h2 {
+                font-size: 22px;
+            }
+
+            .summary {
+                font-size: 16px;
+            }
+
+            .experience-item h3 {
+                font-size: 18px;
+            }
+
+            .experience-item p {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Aman Sharma</h1>
+            <p>Faridabad, Haryana, India</p>
+            <p>Email: <a href="mailto:aman.sharma04123@gmail.com" class="link">aman.sharma04123@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/aman-s-142a1417b" class="link">linkedin.com/in/aman-s-142a1417b</a></p>
+            <p>Phone: (+91)-9911142747</p>
+        </div>
+        <div class="section">
+            <h2>Summary</h2>
+            <p class="summary">Achieving high career growth through a continuous learning process, keeping myself dynamic and visionary to understand new possibilities of growth.</p>
+        </div>
+        <div class="section">
+            <h2>Experience</h2>
+            <div class="experience-item">
+                <h3>Python Developer</h3>
+                <p><strong>TechVenus Solutions</strong></p>
+                <p>July 2023 - Present (4 months)</p>
+                <ul>
+                    <li>Developed and maintained ETL pipelines for efficient data extraction, transformation, and loading.</li>
+                    <li>Optimized data pipelines for enhanced performance, identifying and resolving bottlenecks.</li>
+                    <li>Utilized AWS/GCP to architect scalable data infrastructure for structured and unstructured data.</li>
+                    <li>Implemented API security measures for data integrity and user privacy.</li>
+                    <li>Optimized API performance through efficient coding practices and caching mechanisms.</li>
+                    <li>Managed the API codebase using Git for seamless collaboration and maintenance.</li>
+                </ul>
+            </div>
+            <!-- Add more experience items here -->
+        </div>
+        <div class="achievements">
+            <h2>Achievements</h2>
+            <ul>
+                <li>Deployed 6 projects successfully on AWS EC2, handling 1 million users.</li>
+                <li>Developed remote integration with third-party platforms using Restful web services.</li>
+                <li>Achieved 1866 rank in KickStart Round D Google Challenges for the created efficient algorithm.</li>
+                <li>Earned a Certificate in Essential Cloud Infrastructure: Foundation by Google Cloud on Coursera.</li>
+                <li>Earned a Certificate in Google Cloud Platform Fundamentals: Core Infrastructure by Google Cloud on Coursera.</li>
+                <li>Selected for 2nd place by coding the Smart Dustbin system using Arduino with teammates at the ACEM college Hackathon contest.</li>
+            </ul>
+        </div>
+        <!-- Add more sections (Education, Skills, etc.) here -->
+    </div>
+</body>
+</html>
