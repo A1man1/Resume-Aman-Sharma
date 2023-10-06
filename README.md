@@ -1,10 +1,13 @@
 **<span style="color:#0077B6;">Aman Sharma</span>**
-*<span style="color:#000;">Faridabad, Haryana, India</span>*
-*<span style="color:#000;">Email:</span>* aman.sharma04123@gmail.com
-*<span style="color:#000;">LinkedIn:</span>* [<span style="color:#0077B6;">linkedin.com/in/aman-s-142a1417b</span>](https://www.linkedin.com/in/aman-s-142a1417b)
-*<span style="color:#000;">Phone:</span>* (<span style="color:#0077B6;">+91)-9911142747</span>
-*<span style="color:#000;">GitHub:</span>* [<span style="color:#0077B6;">GitHub Profile Link</span>](https://github.com/yourgithubusername)
-*<span style="color:#000;">HackerRank:</span>* [<span style="color:#0077B6;">HackerRank Profile Link</span>](https://www.hackerrank.com/yourhackerrankusername)
+
+<div style="box-shadow: 3px 3px 3px gray;">
+<span style="color:#000;">`Faridabad, Haryana, India`</span>
+<span style="color:#000;">`Email:`</span>`aman.sharma04123@gmail.com`
+<span style="color:#000;">`LinkedIn:`</span> [<span style="color:#0077B6;">`linkedin.com/in/aman-s-142a1417b`</span>](https://www.linkedin.com/in/aman-s-142a1417b)
+<span style="color:#000;">`Phone:`</span> (<span style="color:#0077B6;">+91)`-9911142747`</span>
+<span style="color:#000;">`GitHub:`</span>* [<span style="color:#0077B6;">`GitHub Profile Link`</span>](https://github.com/yourgithubusername)
+<span style="color:#000;">`HackerRank:`</span>* [<span style="color:#0077B6;">`HackerRank Profile Link`</span>](https://www.hackerrank.com/yourhackerrankusername)
+</div>
 
 ---
 
@@ -16,7 +19,7 @@
 **<span style="color:#0077B6;">Experience:</span>**
 
 *<span style="color:#0077B6;">Python Developer</span>*
-    **<span style="color:#0077B6;">TechVenus Solutions</span>**
+    **<span style="color:#0077B6;">TechVenus Solutions</span>** emsp emsp 
      *<span style="color:#000;">July 2023 - Present (4 months)</span>*
 - <span style="color:#000;">Developed and maintained ETL pipelines for efficient data extraction, transformation, and loading.</span>
 - <span style="color:#000;">Optimized data pipelines for enhanced performance, identifying and resolving bottlenecks.</span>
@@ -25,8 +28,8 @@
 - <span style="color:#000;">Optimized API performance through efficient coding practices and caching mechanisms.</span>
 - <span style="color:#000;">Managed the API codebase using Git for seamless collaboration and maintenance.</span>
 
-*<span style="color:#0077B6;">Junior Software Developer</span>*
-    **<span style="color:#0077B6;">Adcuratio Media Inc.</span>**
+*<span style="color:#0077B6;">Junior Software Developer</span>*  &emsp; 
+    **<span style="color:#0077B6;">Adcuratio Media Inc.</span>** &emsp; &emsp; 
     *<span style="color:#000;">August 2021 - Present (2 years 3 months)</span>*
 - <span style="color:#000;">Connected applications to certain third-party website programs and services.</span>
 - <span style="color:#000;">Conducted tests on various applications and debugged and enhanced computer systems and applications.</span>
@@ -38,25 +41,25 @@
 - <span style="color:#000;">Orchestrated the deployment of a scheduler for real-time data availability.</span>
 - <span style="color:#000;">Deployed the v3 API on an EC2 instance.</span>
 
-*<span style="color:#0077B6;">Project Intern</span>*
-    **<span style="color:#0077B6;">Adcuratio Media Inc.</span>**
+*<span style="color:#0077B6;">Project Intern</span>*&emsp; 
+    **<span style="color:#0077B6;">Adcuratio Media Inc.</span>** &emsp; &emsp; 
     *<span style="color:#000;">June 2021 - August 2021 (3 months)</span>*
 
-*<span style="color:#0077B6;">Python Intern</span>*
-    **<span style="color:#0077B6;">AppCode Technologies Pvt. Ltd.</span>**
+*<span style="color:#0077B6;">Python Intern</span>*&emsp;
+    **<span style="color:#0077B6;">AppCode Technologies Pvt. Ltd.</span>** &emsp; &emsp; 
     *<span style="color:#000;">January 2021 - April 2021 (4 months)</span>*
 - <span style="color:#000;">Reduced debugging time and optimized code for text object capture.</span>
 - <span style="color:#000;">Improved time complexity for frame editing using OpenCV tools.</span>
 - <span style="color:#000;">Deployed a Django project on Docker containers.</span>
 
 *<span style="color:#0077B6;">Freelance</span>*
-    **<span style="color:#0077B6;">Chegg Inc.</span>**
-    *<span style="color:#000;">August 2020 - January 2021 (6 months)</span>*
+    **<span style="color:#0077B6;">Chegg Inc.</span>** &emsp; 
+    *<span style="color:#000;">August 2020 - January 2021 (6 months)</span>* &emsp; &emsp; 
 - <span style="color:#000;">Contributed to problem classification and usability criteria.</span>
 - <span style="color:#000;">Handled complaints through mathematics and programming concepts.</span>
 
-*<span style="color:#0077B6;">Software Trainee</span>*
-    **<span style="color:#0077B6;">360 Degree Cloud Technologies Pvt. Ltd.</span>**
+*<span style="color:#0077B6;">Software Trainee</span>* &emsp; 
+    **<span style="color:#0077B6;">360 Degree Cloud Technologies Pvt. Ltd.</span>**  &emsp;  &emsp; 
     *<span style="color:#000;">January 2020 - July 2020 (7 months)</span>*
 - <span style="color:#000;">Contributions to research, learning, and techniques that contributed to the development of an efficient model.</span>
 - <span style="color:#000;">Achieved a 40% workload reduction through effective management.</span>
@@ -66,16 +69,16 @@
 
 **<span style="color:#0077B6;">Education:</span>**
 
-*Bachelor's of Technology (Computer Science and Engineering)*
-    **<span style="color:#0077B6;">Maharishi Dayanand University</span>**
+*Bachelor's of Technology (Computer Science and Engineering)* &emsp;
+    **<span style="color:#0077B6;">Maharishi Dayanand University</span>** &emsp;
     *<span style="color:#000;">GPA: 3.26</span>
     *<span style="color:#000;">+A*</span>
 
-*<span style="color:#0077B6;">Graduation:</span>*
-    **<span style="color:#0077B6;">Guru Nanak Senior Secondary School</span>**
+*<span style="color:#0077B6;">Graduation:</span>* &emsp;
+    **<span style="color:#0077B6;">Guru Nanak Senior Secondary School</span>** &emsp;
     *<span style="color:#000;">August 2016 – August 2020</span>
 
-*<span style="color:#0077B6;">Senior Secondary:</span>*
+*<span style="color:#0077B6;">Senior Secondary:</span>* &emsp;
     *<span style="color:#000;">May 2014 – May 2015</span>
 
 ---
