@@ -4,7 +4,7 @@
 <span style="color:#000;">Faridabad, Haryana, India</span>
 <br /><span style="color:#000;">Email:</span>aman.sharma04123@gmail.com
 <br /><span style="color:#000;">LinkedIn:</span> 
-   [linkedin.com/in/aman-s-142a1417b](https://www.linkedin.com/in/aman-s-142a1417b)
+   [LINKIN Profile Link](https://www.linkedin.com/in/aman-s-142a1417b)
 <br /><span style="color:#000;">Phone:</span> (+91)-9911142747</span>
 <br /><span style="color:#000;">GitHub:</span> 
    [GitHub Profile Link](https://github.com/yourgithubusername)
